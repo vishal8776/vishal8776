@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal8776&label=Profile%20views&color=0e75b6&style=flat" alt="vishal8776" /> </p>
 
 # 💫 About Me:
-<img align="right" alt="Coding" width="450" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 - 🌱 I’m currently learning **Full stack developer as a MERN Stack**
 
 - 👯 I’m interested in **Data structures**
